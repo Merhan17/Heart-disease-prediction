@@ -38,10 +38,12 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Create a requirements.txt file with:
-
+```bash
 pandas
 numpy
 matplotlib
 seaborn
+```
